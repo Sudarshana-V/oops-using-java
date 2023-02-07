@@ -1,2 +1,2 @@
 # oops-using-java
-100 days java
+20 days java
