@@ -34,7 +34,7 @@ class arithmetic
 		return c;
 	}
 }
-public class void_add
+public class void_arith
 {
 	public static void main(String args[])
 	{
